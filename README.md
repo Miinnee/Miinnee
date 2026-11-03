@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋 ! Salut je m'appelle Thomas ! </h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -36,9 +36,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miinnee/Miinnee/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miinnee/Miinnee/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Miinnee/Miinnee/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miinnee/Miinnee/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miinnee/Miinnee/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Miinnee/Miinnee/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
 ###
