@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Thomas et je suis développeur...</h2>
+<h2 data-importer="text" align="left">Hi 👋! Bonjour je m'appelle Thomas ! </h2>
 
 ###
 
